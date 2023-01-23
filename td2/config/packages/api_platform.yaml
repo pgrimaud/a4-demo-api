@@ -1,0 +1,6 @@
+api_platform:
+  title: 'API title'
+  description: 'API description'
+  version: '1.0.0'
+  # Set this to false if you want Webby to disappear.
+  show_webby: false
