@@ -4,3 +4,9 @@ api_platform:
   version: '1.0.0'
   # Set this to false if you want Webby to disappear.
   show_webby: false
+  swagger:
+    versions: [3]
+    api_keys:
+      apiKey:
+        name: Authorization
+        type: header
